@@ -1,4 +1,22 @@
 ### Hi there 👋
+I am Zhenyuan Zhao (赵桢缘), an undergraduate of Tanwei College at Tsinghua University.
+
+My research interests include:
+
+Energy chemistry
+
+electrolyte
+
+computational chemistry
+
+molecular dynamics
+
+Density Functional Thoery
+
+AI for Science
+
+...
+
 
 <!--
 **zhenyuanzhaothu/zhenyuanzhaothu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
